@@ -37,7 +37,7 @@ watchEffect(() => {
 
 <template>
   <div>
-    Minesweeper
+    💣 Minesweeper
 
     <div flex="~ gap1" justify-center p4>
       <button btn @click="play.reset()">
